@@ -28,7 +28,7 @@ float pib;
 
 printf("Digite o pib da cidade: ");
 scanf("%f", &pib);
-
+  
 printf("PIB cadastrado é de: %f\n", pib);
 
 
