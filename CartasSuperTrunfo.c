@@ -39,5 +39,8 @@ scanf("%d", &numerodepontosturisticos);
 
 printf("O número de pontos turísticos cadastrados é de: %d\n", numerodepontosturisticos);
 
-    return 0;
+// nessa secão fica dedicada para organização das infomações adicionadas - exibições
+printf(" ")
+
+  return 0;
 }
